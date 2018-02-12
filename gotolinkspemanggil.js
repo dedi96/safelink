@@ -25,7 +25,7 @@ if(x=="1"){xxx="/2018/02/interested-in-buying-bitcoin-its-no.html"}
 if(x=="2"){xxx="/2018/02/how-bitcoin-works-and-why-its-menace.html"}
 if(x=="3"){xxx="/2018/02/cryptocurrencys-red-tuesday-firesale.html"}
 if(x=="4"){xxx="/2018/02/two-new-services-could-help-investors.html"}
-if(x=="5"){xxx="/2018/02/bitcoin-price-analysis-potential.html"}a_to_ve[i].href="http://www.gothelink.cf"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="/2018/02/bitcoin-price-analysis-potential.html"}a_to_ve[i].href="http://www.gotolinks.cf"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
